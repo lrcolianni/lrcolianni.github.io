@@ -11,10 +11,17 @@ main {
   max-width: 900px;
 }
 
-.project-description {
-  padding-left: 0;
-}
 
+.project-description {
+  padding-left: 20;
+}
+.fproject{
+  display: inline;
+  width: 100%;
+}
+#fp{
+  display: inline-block;
+}
 .project img {
   width: 100%;
 }
